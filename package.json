@@ -1,0 +1,17 @@
+{
+  "name": "hex-exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "d": "^1.0.2",
+    "docker": "^1.0.0",
+    "docker-compose": "^0.24.8",
+    "express": "^4.19.2"
+  }
+}
